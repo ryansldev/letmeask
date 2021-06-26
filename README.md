@@ -14,7 +14,10 @@
 ## :rocket: Aquecendo os motores
 <br />
 
-A metodologia da NLW Together tem como pilares o foco, aprendizado na comunidade e a prática com aplicações inéditas a cada edição. Já imaginou se existisse alguma aplicação para as pessoas te mandarem perguntas sobre a live de forma exclusiva e separada do chat? Essa é a proposta da aplicação dessa semana, Letmeask. 
+A metodologia da NLW Together tem como pilares o foco, aprendizado na comunidade e a prática com aplicações inéditas a cada edição. Já imaginou se existisse alguma aplicação para as pessoas te mandarem perguntas sobre a live de forma exclusiva e separada do chat? Essa é a proposta da aplicação dessa semana, Letmeask.
+
+Segue o link da aplicação:
+<a href="https://letmeask-8d1ce.web.app">Letmeask - Make your questions!</a>
 
 <br />
 
@@ -33,7 +36,7 @@ A semana é pilotada por [Diego Fernandes](https://github.com/diego3g), esse car
 
 <br />
 
-### Agora.. Vamos falar um pouco sobre a Comunidade da Rocketseat
+## Agora.. Vamos falar um pouco sobre a Comunidade da Rocketseat
 
 O pessoal da Rocketseat e todos os devs que fazem parte sempre dão força e apoio que você necessita e nunca te deixam desistir! Lá tem de tudo, desde a ajuda com os bugs a network, simplesmente uma comunidade incrível!
 

@@ -20,7 +20,7 @@ A metodologia da NLW Together tem como pilares o foco, aprendizado na comunidade
 
 ## Quem é o piloto da NLW Together(Trilha ReactJS)? :rocket:
 
-A semana é pilotada por [Diego Fernandes](https://github.com/diego3g), esse cara é massa demais! Um excelente mestre, aulas didáticas, objetivas e práticas!
+A semana é pilotada por [Diego Fernandes](https://github.com/diego3g), esse cara é massa demais! Um excelente mestre, aulas didáticas, objetivas e práticas! Dá uma conferida lá no Git dele!
 
 <br />
 

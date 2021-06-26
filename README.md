@@ -41,7 +41,7 @@ Entre na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gC
 
 ---
 
-<h5 align="center">Developed by <strong>Ryan Lima <br /> Bora bater um papo? 🚀</h5>
+<h4 align="center">Developed by <strong>Ryan Lima <br /> Bora bater um papo? 🚀</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/ryansldev/">Linkedin</a>
   |

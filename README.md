@@ -17,7 +17,7 @@
 A metodologia da NLW Together tem como pilares o foco, aprendizado na comunidade e a prática com aplicações inéditas a cada edição. Já imaginou se existisse alguma aplicação para as pessoas te mandarem perguntas sobre a live de forma exclusiva e separada do chat? Essa é a proposta da aplicação dessa semana, Letmeask.
 
 Segue o link da aplicação:
-<a href="https://letmeask-8d1ce.web.app">Letmeask - Make your questions!</a>
+<a href="https://letmeask-8d1ce.web.app">Letmeask - Make your questions!!</a>
 
 <br />
 

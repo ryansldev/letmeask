@@ -24,8 +24,13 @@ export function Room() {
 
   const { title, questions } = useRoom(roomId);
 
+  const popSound = require('../assets/sounds/popByDiegoFernandes.mp3');
+
   async function handleSendQuestion(event: FormEvent) {
     event.preventDefault();
+
+    const audio = document.querySelector('.pop-sound') as HTMLAudioElement;
+    audio.play();
 
     if (newQuestion.trim() === '') {
       return;
@@ -120,6 +125,9 @@ export function Room() {
             )
           })}
         </div>
+        <audio className="pop-sound">
+          <source src={popSound.default} type="audio/mpeg" />
+        </audio>
       </main>
     </div>
   )
